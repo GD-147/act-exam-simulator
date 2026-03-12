@@ -37,7 +37,7 @@
   },
   {
     "id": "EN1-004",
-    "prompt": "[1] The group also planted herbs along the fence. [2] The gardeners hoped the herb strip would attract pollinators. [3] Bees visited the purple basil flowers almost immediately. [4] Children especially liked rubbing mint leaves between their fingers.\nThe writer wants to add this sentence: “That hope was fulfilled sooner than anyone expected.ÔøΩ\nWhere should the sentence be placed?",
+    "prompt": "[1] The group also planted herbs along the fence. [2] The gardeners hoped the herb strip would attract pollinators. [3] Bees visited the purple basil flowers almost immediately. [4] Children especially liked rubbing mint leaves between their fingers.\nThe writer wants to add this sentence: “That hope was fulfilled sooner than anyone expected.”\nWhere should the sentence be placed?",
     "choices": {
       "A": "After sentence 1.",
       "B": "After sentence 2.",
@@ -45,7 +45,7 @@
       "D": "After sentence 4."
     },
     "correct": "B",
-    "explanation": "ÔøΩThat hope’ clearly refers to the hope in sentence 2 that the herbs would attract pollinators. Placing the sentence there sets up sentence 3, which shows bees arriving almost immediately."
+    "explanation": "“That hope’ clearly refers to the hope in sentence 2 that the herbs would attract pollinators. Placing the sentence there sets up sentence 3, which shows bees arriving almost immediately."
   },
   {
     "id": "EN1-005",
@@ -93,7 +93,7 @@
       "D": "low"
     },
     "correct": "D",
-    "explanation": "ÔøΩLow humidity’ is the standard, idiomatic phrasing. The main trap is B, which suggests comparison but leaves the sentence incomplete and awkward."
+    "explanation": "“Low humidity’ is the standard, idiomatic phrasing. The main trap is B, which suggests comparison but leaves the sentence incomplete and awkward."
   },
   {
     "id": "EN1-009",
@@ -123,9 +123,9 @@
     "id": "EN1-011",
     "prompt": "The engineers reviewed the old bridge<u>s</u> support beams before work began.",
     "choices": {
-      "A": "ÔøΩs",
+      "A": "’s",
       "B": "s",
-      "C": "sÔøΩ",
+      "C": "s’",
       "D": "es"
     },
     "correct": "A",
@@ -229,7 +229,7 @@
   },
   {
     "id": "EN1-020",
-    "prompt": "[1] At the top, we signed the register tucked inside a metal box. [2] A gust of wind rattled the lid. [3] Far below us, the lake reflected the afternoon sun. [4] We stayed only a few minutes before starting down.\nThe writer wants to add this sentence: “From that height, even the parking lot looked tiny.ÔøΩ\nWhere should the sentence be placed?",
+    "prompt": "[1] At the top, we signed the register tucked inside a metal box. [2] A gust of wind rattled the lid. [3] Far below us, the lake reflected the afternoon sun. [4] We stayed only a few minutes before starting down.\nThe writer wants to add this sentence: “From that height, even the parking lot looked tiny.”\nWhere should the sentence be placed?",
     "choices": {
       "A": "After sentence 1.",
       "B": "After sentence 2.",
@@ -249,7 +249,7 @@
       "D": "choose"
     },
     "correct": "B",
-    "explanation": "The helping verb “has’ requires the past participle “chosen,” not the simple past “chose.” The main trap is A, which would be correct only without “has.ÔøΩ"
+    "explanation": "The helping verb “has’ requires the past participle “chosen,” not the simple past “chose.” The main trap is A, which would be correct only without “has.”"
   },
   {
     "id": "EN1-022",
@@ -285,7 +285,7 @@
       "D": "between rounds, the students adjusted the robot’s sturdy arm."
     },
     "correct": "C",
-    "explanation": "The opening modifier “Built from recycled aluminum’ must describe the arm, not the students. The main trap is D, which still leaves the modifier dangling because the subject remains “the students.ÔøΩ"
+    "explanation": "The opening modifier “Built from recycled aluminum’ must describe the arm, not the students. The main trap is D, which still leaves the modifier dangling because the subject remains “the students.”"
   },
   {
     "id": "EN1-025",
@@ -309,7 +309,7 @@
       "D": "have sat"
     },
     "correct": "A",
-    "explanation": "The subject is “A tray,” which is singular, so the verb must be singular as well. The main trap is B, which incorrectly matches the nearby plural noun “scones.ÔøΩ"
+    "explanation": "The subject is “A tray,” which is singular, so the verb must be singular as well. The main trap is B, which incorrectly matches the nearby plural noun “scones.”"
   },
   {
     "id": "EN1-027",
@@ -333,7 +333,7 @@
       "D": "theirs"
     },
     "correct": "C",
-    "explanation": "The pronoun refers to the plural noun “loaves,” so a plural possessive pronoun is needed. The main trap is A, which is singular and does not agree with “loaves.ÔøΩ"
+    "explanation": "The pronoun refers to the plural noun “loaves,” so a plural possessive pronoun is needed. The main trap is A, which is singular and does not agree with “loaves.”"
   },
   {
     "id": "EN1-029",
@@ -349,7 +349,7 @@
   },
   {
     "id": "EN1-030",
-    "prompt": "[1] The bakery also sells day-old bread at a discount. [2] Regular customers know to arrive early for it. [3] Some freeze extra loaves for later in the week. [4] The practice helps reduce food waste.\nThe writer wants to add this sentence: “By noon, the discount shelf is often empty.ÔøΩ\nWhere should the sentence be placed?",
+    "prompt": "[1] The bakery also sells day-old bread at a discount. [2] Regular customers know to arrive early for it. [3] Some freeze extra loaves for later in the week. [4] The practice helps reduce food waste.\nThe writer wants to add this sentence: “By noon, the discount shelf is often empty.”\nWhere should the sentence be placed?",
     "choices": {
       "A": "After sentence 2.",
       "B": "After sentence 1.",
@@ -393,11 +393,11 @@
       "D": "of excessive length too."
     },
     "correct": "B",
-    "explanation": "ÔøΩExcessively’ and “too’ repeat the same idea, so the sentence should be simplified. The main trap is A, which is redundant and wordy."
+    "explanation": "“Excessively’ and “too’ repeat the same idea, so the sentence should be simplified. The main trap is A, which is redundant and wordy."
   },
   {
     "id": "EN1-034",
-    "prompt": "[1] The show began as a school project. [2] Soon, neighbors started sending in story ideas. [3] The host now releases new episodes twice a month. [4] A small local business sponsors the recording equipment.\nThe writer wants to add this sentence: “That early support convinced the host to continue the project after graduation.ÔøΩ\nWhere should the sentence be placed?",
+    "prompt": "[1] The show began as a school project. [2] Soon, neighbors started sending in story ideas. [3] The host now releases new episodes twice a month. [4] A small local business sponsors the recording equipment.\nThe writer wants to add this sentence: “That early support convinced the host to continue the project after graduation.”\nWhere should the sentence be placed?",
     "choices": {
       "A": "After sentence 2.",
       "B": "After sentence 1.",
@@ -405,7 +405,7 @@
       "D": "After sentence 4."
     },
     "correct": "A",
-    "explanation": "ÔøΩThat early support’ refers to neighbors sending in story ideas in sentence 2, so the added sentence belongs immediately after it. This placement also helps explain the project’s growth in sentences 3 and 4."
+    "explanation": "“That early support’ refers to neighbors sending in story ideas in sentence 2, so the added sentence belongs immediately after it. This placement also helps explain the project’s growth in sentences 3 and 4."
   },
   {
     "id": "EN1-035",
@@ -469,7 +469,7 @@
   },
   {
     "id": "EN1-040",
-    "prompt": "[1] When the mural was complete, the artists stepped back to study it from across the street. [2] Cars slowed as drivers passed the corner. [3] Pedestrians stopped to take pictures. [4] The once-blank wall had become a landmark.\nThe writer wants to add this sentence: “Even people who had ignored the project all week paused to look.ÔøΩ\nWhere should the sentence be placed?",
+    "prompt": "[1] When the mural was complete, the artists stepped back to study it from across the street. [2] Cars slowed as drivers passed the corner. [3] Pedestrians stopped to take pictures. [4] The once-blank wall had become a landmark.\nThe writer wants to add this sentence: “Even people who had ignored the project all week paused to look.”\nWhere should the sentence be placed?",
     "choices": {
       "A": "After sentence 1.",
       "B": "After sentence 3.",
@@ -489,7 +489,7 @@
       "D": "built"
     },
     "correct": "D",
-    "explanation": "ÔøΩLast spring’ signals past time, so the simple past tense is needed. The main trap is A, which incorrectly shifts the sentence into present tense."
+    "explanation": "“Last spring’ signals past time, so the simple past tense is needed. The main trap is A, which incorrectly shifts the sentence into present tense."
   },
   {
     "id": "EN1-042",
@@ -529,7 +529,7 @@
   },
   {
     "id": "EN1-045",
-    "prompt": "Paragraph: “Some students focused on flashy visuals for their displays. By contrast, Maya relied on clear labels and careful measurements.ÔøΩ\nThe writer is considering adding this sentence next: “She also chose a blue tablecloth because it matched the turbine’s painted base.ÔøΩ\nShould the writer add this sentence here?",
+    "prompt": "Paragraph: “Some students focused on flashy visuals for their displays. By contrast, Maya relied on clear labels and careful measurements.”\nThe writer is considering adding this sentence next: “She also chose a blue tablecloth because it matched the turbine’s painted base.”\nShould the writer add this sentence here?",
     "choices": {
       "A": "Yes, because it provides an important detail about the experiment’s design.",
       "B": "Yes, because it shows that Maya cared about making the display attractive.",
@@ -589,7 +589,7 @@
   },
   {
     "id": "EN1-050",
-    "prompt": "The memoir ends with these sentences: “By sunset, the windows reflected the inside of the car more clearly than the fields outside. My grandfather folded his newspaper and smiled.ÔøΩ\nThe writer wants to add a final sentence that emphasizes the quiet companionship of the trip. Which choice best accomplishes that goal?",
+    "prompt": "The memoir ends with these sentences: “By sunset, the windows reflected the inside of the car more clearly than the fields outside. My grandfather folded his newspaper and smiled.”\nThe writer wants to add a final sentence that emphasizes the quiet companionship of the trip. Which choice best accomplishes that goal?",
     "choices": {
       "A": "The train arrived ten minutes later than scheduled.",
       "B": "We said almost nothing, yet the silence between us felt full rather than empty.",
